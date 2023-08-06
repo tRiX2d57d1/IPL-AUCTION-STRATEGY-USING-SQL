@@ -6,6 +6,7 @@
    - [Prerequisites](#pre)
    - [History](#his) 
    - [Implementation](#imp)
+   - [Dashboard Link](#link)
    - [Result](#res)
 
 </details>
@@ -60,7 +61,13 @@ Strike Rate of bowler = Number of Balls Bowled \ Total Wickets Taken
   
 6. There are batsman with good strike rate,who can score runs and bowlers with amazing strike rate, who have taken most wickets with minimum balls and there are all-rounders who can do both. To find all-rounders for the team, we have to find the batsman strike rate and bowler strike rate and use inner join to query out players who are good common strike rates.
 
+<a id="link"></a>
+### Link to Tableau Dashboard
+[IPL Auction Strategy Dashboard](https://public.tableau.com/views/IPLAuctionStrategyDashboard/IPLDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 <a id="res"></a>
 ### Result
 By leveraging the power of Postgresql, I developed an auction strategy for the new IPL franchise by creating a powerful team.
+
+
 
